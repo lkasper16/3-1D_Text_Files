@@ -1,0 +1,253 @@
+dependent_variables:
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: Minimum bias }
+  - {name: PARTICLES, value: K*0 }
+  values:
+  - errors:
+    - {label: stat, symerror:  0.0292821}
+    value: 0.597909
+  - errors:
+    - {label: stat, symerror:  0.0220145}
+    value: 0.534754
+  - errors:
+    - {label: stat, symerror:  0.0158914}
+    value: 0.423564
+  - errors:
+    - {label: stat, symerror:  0.00879568}
+    value: 0.257495
+  - errors:
+    - {label: stat, symerror:  0.00580891}
+    value: 0.159133
+  - errors:
+    - {label: stat, symerror:  0.003831}
+    value: 0.0924897
+  - errors:
+    - {label: stat, symerror:  0.00268525}
+    value: 0.0517724
+  - errors:
+    - {label: stat, symerror:  0.000803754}
+    value: 0.0319984
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: 0-20% }
+  - {name: PARTICLES, value: K*0 }
+  values:
+  - errors:
+    - {label: stat, symerror:  0.0157622}
+    value: 0.0839055
+  - errors:
+    - {label: stat, symerror:  0.00840849}
+    value: 0.0854732
+  - errors:
+    - {label: stat, symerror:  0.00599708}
+    value: 0.0706838
+  - errors:
+    - {label: stat, symerror:  0.00305391}
+    value: 0.0442796
+  - errors:
+    - {label: stat, symerror:  0.00222244}
+    value: 0.0303613
+  - errors:
+    - {label: stat, symerror:  0.0015541}
+    value: 0.018958
+  - errors:
+    - {label: stat, symerror:  0.00115221}
+    value: 0.0123516
+  - errors:
+    - {label: stat, symerror:  0.00160251}
+    value: 0.00795117
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: 20-40% }
+  - {name: PARTICLES, value: K*0 }
+  values:
+  - errors:
+    - {label: stat, symerror:  0.00265955}
+    value: 0.0213471
+  - errors:
+    - {label: stat, symerror:  0.00205739}
+    value: 0.0235752
+  - errors:
+    - {label: stat, symerror:  0.00144946}
+    value: 0.0169882
+  - errors:
+    - {label: stat, symerror:  0.000805154}
+    value: 0.0117816
+  - errors:
+    - {label: stat, symerror:  0.000515326}
+    value: 0.00797187
+  - errors:
+    - {label: stat, symerror:  0.000311621}
+    value: 0.00455275
+  - errors:
+    - {label: stat, symerror:  0.000228873}
+    value: 0.00254358
+  - errors:
+    - {label: stat, symerror:  0.000132621}
+    value: 0.00154762
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: 40-100% }
+  - {name: PARTICLES, value: K*0 }
+  values:
+  - errors:
+    - {label: stat, symerror:  0.00028235}
+    value: 0.00471653
+  - errors:
+    - {label: stat, symerror:  0.0001844}
+    value: 0.00373693
+  - errors:
+    - {label: stat, symerror:  0.000145801}
+    value: 0.00307303
+  - errors:
+    - {label: stat, symerror:  7.53142e-05}
+    value: 0.00154762
+  - errors:
+    - {label: stat, symerror:  4.7588e-05}
+    value: 0.000947692
+  - errors:
+    - {label: stat, symerror:  3.26315e-05}
+    value: 0.000580791
+  - errors:
+    - {label: stat, symerror:  2.24912e-05}
+    value: 0.000304515
+  - errors:
+    - {label: stat, symerror:  1.35876e-05}
+    value: 0.000188689
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: Minimum bias }
+  - {name: PARTICLES, value: K*+ K*- }
+  values:
+  - errors:
+    - {label: stat, symerror:  0.00581813}
+    value: 0.105751
+  - errors:
+    - {label: stat, symerror:  0.00117063}
+    value: 0.0253646
+  - errors:
+    - {label: stat, symerror:  0.000418679}
+    value: 0.00670054
+  - errors:
+    - {label: stat, symerror:  0.00017382}
+    value: 0.00246707
+  - errors:
+    - {label: stat, symerror:  8.31355e-05}
+    value: 0.000718731
+  - errors:
+    - {label: stat, symerror:  3.81798e-05}
+    value: 0.000282644
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: 20-40% }
+  - {name: PARTICLES, value: K*+ K*- }
+  values:
+  - errors:
+    - {label: stat, symerror:  0.000497698}
+    value: 0.00450702
+  - errors:
+    - {label: stat, symerror:  0.000102686}
+    value: 0.00115425
+  - errors:
+    - {label: stat, symerror:  4.02724e-05}
+    value: 0.000409152
+  - errors:
+    - {label: stat, symerror:  1.92791e-05}
+    value: 0.000136305
+  - errors:
+    - {label: stat, symerror:  5.95142e-06}
+    value: 3.6034e-05
+  - errors:
+    - {label: stat, symerror:  3.83566e-06}
+    value: 1.10644e-05
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: 40-100% }
+  - {name: PARTICLES, value: K*+ K*- }
+  values:
+  - errors:
+    - {label: stat, symerror:  5.19321e-05}
+    value: 0.000764935
+  - errors:
+    - {label: stat, symerror:  1.25342e-05}
+    value: 0.00017574
+  - errors:
+    - {label: stat, symerror:  4.00349e-06}
+    value: 4.03714e-05
+  - errors:
+    - {label: stat, symerror:  1.82832e-06}
+    value: 1.60353e-05
+  - errors:
+    - {label: stat, symerror:  8.58885e-07}
+    value: 5.69778e-06
+  - errors:
+    - {label: stat, symerror:  3.93983e-07}
+    value: 1.63874e-06
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+- header: {name: (2pipT)^-1d^2N/dydpT, units: (c/GEV)^2 }
+  qualifiers:
+  - {name: SQRT(S), units: GEV, value: 200}
+  - {name: CENTRALITY, value: 0-20% }
+  - {name: PARTICLES, value: K*+ K*- }
+  values:
+  - errors:
+    - {label: stat, symerror:  0.00208473}
+    value: 0.0206653
+  - errors:
+    - {label: stat, symerror:  0.000422205}
+    value: 0.00586978
+  - errors:
+    - {label: stat, symerror:  0.000150575}
+    value: 0.00141126
+  - errors:
+    - {label: stat, symerror:  6.07692e-05}
+    value: 0.000559765
+  - errors:
+    - {label: stat, symerror:  3.30208e-05}
+    value: 0.000155875
+  - errors:
+    - {label: stat, symerror:  1.48535e-05}
+    value: 7.7586e-05
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+  - errors:
+    - {label: 'total', symerror:  --}
+    value: --
+
+independent_variables:  
+- header: {name: pT, units: GEV/c }
+  values:
+  - {value: 0.15}
+  - {value: 0.4}
+  - {value: 0.6}
+  - {value: 0.8}
+  - {value: 1}
+  - {value: 1.2}
+  - {value: 1.4}
+  - {value: 1.6}

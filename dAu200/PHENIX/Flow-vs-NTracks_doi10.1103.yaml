@@ -1,0 +1,529 @@
+independent_variables:
+- header: {name: '$N_{tracks}^{FVTX}$'}
+  values:
+  - {value: 5}
+  - {value: 6}
+  - {value: 7}
+  - {value: 8}
+  - {value: 9}
+  - {value: 10}
+  - {value: 11}
+  - {value: 12}
+  - {value: 13}
+  - {value: 14}
+  - {value: 15}
+  - {value: 16}
+  - {value: 17}
+  - {value: 18}
+  - {value: 19}
+  - {value: 20}
+  - {value: 21}
+  - {value: 22}
+  - {value: 23}
+  - {value: 24}
+  - {value: 25}
+  - {value: 26}
+  - {value: 27}
+  - {value: 28}
+  - {value: 29}
+  - {value: 30}
+  - {value: 31}
+  - {value: 32}
+  - {value: 33}
+  - {value: 34}
+  - {value: 35}
+  - {value: 36}
+  - {value: 37}
+  - {value: 38}
+  - {value: 39}
+  - {value: 40}
+  - {value: 41}
+  - {value: 42}
+  - {value: 43}
+  - {value: 44}
+  - {value: 45}
+  - {value: 46}
+  - {value: 47}
+  - {value: 48}
+  - {value: 49}
+dependent_variables:
+- header: {name: '$v_{2}{2}$'}
+  qualifiers:
+  - {name: '$N_{tracks}^{FVTX}$', value: '$v_{2}{2}$ as a function of $N_{tracks}^{FVTX}$'}
+  values:
+  - value: 0.115953
+    errors:
+    - {symerror: 0.000337775, label: 'stat'}
+    - {symerror: 0.0117679, label: 'sys'}
+  - value: 0.111429
+    errors:
+    - {symerror: 0.000272146, label: 'stat'}
+    - {symerror: 0.0113088, label: 'sys'}
+  - value: 0.107323
+    errors:
+    - {symerror: 0.000222081, label: 'stat'}
+    - {symerror: 0.0108921, label: 'sys'}
+  - value: 0.104379
+    errors:
+    - {symerror: 0.000182023, label: 'stat'}
+    - {symerror: 0.0105933, label: 'sys'}
+  - value: 0.10139
+    errors:
+    - {symerror: 0.000150403, label: 'stat'}
+    - {symerror: 0.0102899, label: 'sys'}
+  - value: 0.0983121
+    errors:
+    - {symerror: 0.000125635, label: 'stat'}
+    - {symerror: 0.00997759, label: 'sys'}
+  - value: 0.0962111
+    errors:
+    - {symerror: 0.00010587, label: 'stat'}
+    - {symerror: 0.00976436, label: 'sys'}
+  - value: 0.0939111
+    errors:
+    - {symerror: 9.03958e-05, label: 'stat'}
+    - {symerror: 0.00953093, label: 'sys'}
+  - value: 0.0916079
+    errors:
+    - {symerror: 7.81693e-05, label: 'stat'}
+    - {symerror: 0.00929718, label: 'sys'}
+  - value: 0.0897945
+    errors:
+    - {symerror: 6.84384e-05, label: 'stat'}
+    - {symerror: 0.00911315, label: 'sys'}
+  - value: 0.0882415
+    errors:
+    - {symerror: 6.06031e-05, label: 'stat'}
+    - {symerror: 0.00895553, label: 'sys'}
+  - value: 0.0866559
+    errors:
+    - {symerror: 5.44134e-05, label: 'stat'}
+    - {symerror: 0.00879462, label: 'sys'}
+  - value: 0.085623
+    errors:
+    - {symerror: 4.93146e-05, label: 'stat'}
+    - {symerror: 0.00868979, label: 'sys'}
+  - value: 0.0845668
+    errors:
+    - {symerror: 4.52706e-05, label: 'stat'}
+    - {symerror: 0.00858259, label: 'sys'}
+  - value: 0.0836602
+    errors:
+    - {symerror: 4.20112e-05, label: 'stat'}
+    - {symerror: 0.00849058, label: 'sys'}
+  - value: 0.0828519
+    errors:
+    - {symerror: 3.93955e-05, label: 'stat'}
+    - {symerror: 0.00840855, label: 'sys'}
+  - value: 0.0823349
+    errors:
+    - {symerror: 3.72793e-05, label: 'stat'}
+    - {symerror: 0.00835608, label: 'sys'}
+  - value: 0.0818406
+    errors:
+    - {symerror: 3.56458e-05, label: 'stat'}
+    - {symerror: 0.00830591, label: 'sys'}
+  - value: 0.0812097
+    errors:
+    - {symerror: 3.44248e-05, label: 'stat'}
+    - {symerror: 0.00824188, label: 'sys'}
+  - value: 0.0808639
+    errors:
+    - {symerror: 3.35132e-05, label: 'stat'}
+    - {symerror: 0.00820679, label: 'sys'}
+  - value: 0.0805899
+    errors:
+    - {symerror: 3.28981e-05, label: 'stat'}
+    - {symerror: 0.00817898, label: 'sys'}
+  - value: 0.080248
+    errors:
+    - {symerror: 3.25531e-05, label: 'stat'}
+    - {symerror: 0.00814429, label: 'sys'}
+  - value: 0.0798453
+    errors:
+    - {symerror: 3.24757e-05, label: 'stat'}
+    - {symerror: 0.00810342, label: 'sys'}
+  - value: 0.0797023
+    errors:
+    - {symerror: 3.26297e-05, label: 'stat'}
+    - {symerror: 0.0080889, label: 'sys'}
+  - value: 0.0794821
+    errors:
+    - {symerror: 3.29897e-05, label: 'stat'}
+    - {symerror: 0.00806655, label: 'sys'}
+  - value: 0.0790652
+    errors:
+    - {symerror: 3.36141e-05, label: 'stat'}
+    - {symerror: 0.00802424, label: 'sys'}
+  - value: 0.0790067
+    errors:
+    - {symerror: 3.44095e-05, label: 'stat'}
+    - {symerror: 0.0080183, label: 'sys'}
+  - value: 0.0788249
+    errors:
+    - {symerror: 3.54795e-05, label: 'stat'}
+    - {symerror: 0.00799986, label: 'sys'}
+  - value: 0.0784735
+    errors:
+    - {symerror: 3.6782e-05, label: 'stat'}
+    - {symerror: 0.00796419, label: 'sys'}
+  - value: 0.0784412
+    errors:
+    - {symerror: 3.8343e-05, label: 'stat'}
+    - {symerror: 0.00796091, label: 'sys'}
+  - value: 0.0781688
+    errors:
+    - {symerror: 4.01937e-05, label: 'stat'}
+    - {symerror: 0.00793327, label: 'sys'}
+  - value: 0.0779413
+    errors:
+    - {symerror: 4.22995e-05, label: 'stat'}
+    - {symerror: 0.00791017, label: 'sys'}
+  - value: 0.0777923
+    errors:
+    - {symerror: 4.47467e-05, label: 'stat'}
+    - {symerror: 0.00789506, label: 'sys'}
+  - value: 0.077772
+    errors:
+    - {symerror: 4.75078e-05, label: 'stat'}
+    - {symerror: 0.00789299, label: 'sys'}
+  - value: 0.0776716
+    errors:
+    - {symerror: 5.0731e-05, label: 'stat'}
+    - {symerror: 0.00788281, label: 'sys'}
+  - value: 0.0771677
+    errors:
+    - {symerror: 5.43808e-05, label: 'stat'}
+    - {symerror: 0.00783166, label: 'sys'}
+  - value: 0.07677
+    errors:
+    - {symerror: 5.85071e-05, label: 'stat'}
+    - {symerror: 0.0077913, label: 'sys'}
+  - value: 0.0768298
+    errors:
+    - {symerror: 6.30529e-05, label: 'stat'}
+    - {symerror: 0.00779738, label: 'sys'}
+  - value: 0.0766494
+    errors:
+    - {symerror: 6.83064e-05, label: 'stat'}
+    - {symerror: 0.00777906, label: 'sys'}
+  - value: 0.0764901
+    errors:
+    - {symerror: 7.42376e-05, label: 'stat'}
+    - {symerror: 0.0077629, label: 'sys'}
+  - value: 0.0762911
+    errors:
+    - {symerror: 8.08333e-05, label: 'stat'}
+    - {symerror: 0.00774271, label: 'sys'}
+  - value: 0.0760168
+    errors:
+    - {symerror: 8.84051e-05, label: 'stat'}
+    - {symerror: 0.00771486, label: 'sys'}
+  - value: 0.0755987
+    errors:
+    - {symerror: 9.71777e-05, label: 'stat'}
+    - {symerror: 0.00767243, label: 'sys'}
+  - value: 0.0756053
+    errors:
+    - {symerror: 0.000106428, label: 'stat'}
+    - {symerror: 0.0076731, label: 'sys'}
+  - value: 0.0750242
+    errors:
+    - {symerror: 0.000117178, label: 'stat'}
+    - {symerror: 0.00761413, label: 'sys'}
+- header: {name: '$v_{2}{4}$'}
+  qualifiers:
+  - {name: '$N_{tracks}^{FVTX}$', value: '$v_{2}{4}$ as a function of $N_{tracks}^{FVTX}$'}
+  values:
+  - value: 0.0460281
+    errors:
+    - {symerror: 0.0271834, label: 'stat'}
+    - {symerror: 0.00654182, label: 'sys'}
+  - value: 0.0515766
+    errors:
+    - {symerror: 0.00997123, label: 'stat'}
+    - {symerror: 0.00733041, label: 'sys'}
+  - value: 0.045171
+    errors:
+    - {symerror: 0.00877824, label: 'stat'}
+    - {symerror: 0.00642001, label: 'sys'}
+  - value: 0.046952
+    errors:
+    - {symerror: 0.00514773, label: 'stat'}
+    - {symerror: 0.00667314, label: 'sys'}
+  - value: 0.0352511
+    errors:
+    - {symerror: 0.00873623, label: 'stat'}
+    - {symerror: 0.00501013, label: 'sys'}
+  - value: 0.0469245
+    errors:
+    - {symerror: 0.00285011, label: 'stat'}
+    - {symerror: 0.00666922, label: 'sys'}
+  - value: 0.0473196
+    errors:
+    - {symerror: 0.00227918, label: 'stat'}
+    - {symerror: 0.00672537, label: 'sys'}
+  - value: 0.0468522
+    errors:
+    - {symerror: 0.00202954, label: 'stat'}
+    - {symerror: 0.00665895, label: 'sys'}
+  - value: 0.0478062
+    errors:
+    - {symerror: 0.00172316, label: 'stat'}
+    - {symerror: 0.00679453, label: 'sys'}
+  - value: 0.0469683
+    errors:
+    - {symerror: 0.00171583, label: 'stat'}
+    - {symerror: 0.00667545, label: 'sys'}
+  - value: 0.0475824
+    errors:
+    - {symerror: 0.00160415, label: 'stat'}
+    - {symerror: 0.00676272, label: 'sys'}
+  - value: 0.0484783
+    errors:
+    - {symerror: 0.00152652, label: 'stat'}
+    - {symerror: 0.00689006, label: 'sys'}
+  - value: 0.0450774
+    errors:
+    - {symerror: 0.00197124, label: 'stat'}
+    - {symerror: 0.0064067, label: 'sys'}
+  - value: 0.0472277
+    errors:
+    - {symerror: 0.00181066, label: 'stat'}
+    - {symerror: 0.00671232, label: 'sys'}
+  - value: 0.0466879
+    errors:
+    - {symerror: 0.00203255, label: 'stat'}
+    - {symerror: 0.0066356, label: 'sys'}
+  - value: 0.0435623
+    errors:
+    - {symerror: 0.00275602, label: 'stat'}
+    - {symerror: 0.00619136, label: 'sys'}
+  - value: 0.0464971
+    errors:
+    - {symerror: 0.00253707, label: 'stat'}
+    - {symerror: 0.00660849, label: 'sys'}
+  - value: 0.0483304
+    errors:
+    - {symerror: 0.00257, label: 'stat'}
+    - {symerror: 0.00686904, label: 'sys'}
+  - value: 0.0440256
+    errors:
+    - {symerror: 0.00395054, label: 'stat'}
+    - {symerror: 0.00625721, label: 'sys'}
+  - value: 0.0515802
+    errors:
+    - {symerror: 0.00282967, label: 'stat'}
+    - {symerror: 0.00733092, label: 'sys'}
+- header: {name: '$v_{2}{6}$'}
+  qualifiers:
+  - {name: '$N_{tracks}^{FVTX}$', value: '$v_{2}{6}$ as a function of $N_{tracks}^{FVTX}$'}
+  values:
+  - value: 0.0457145
+    errors:
+    - {symerror: 0.002332, label: 'stat'}
+    - {symerror: 0.00649726, label: 'sys'}
+  - value: 0.041018
+    errors:
+    - {symerror: 0.00130313, label: 'stat'}
+    - {symerror: 0.00582975, label: 'sys'}
+  - value: 0.052072
+    errors:
+    - {symerror: 0.00137382, label: 'stat'}
+    - {symerror: 0.00740082, label: 'sys'}
+  - value: 0.0565444
+    errors:
+    - {symerror: 0.00144407, label: 'stat'}
+    - {symerror: 0.00803647, label: 'sys'}
+  - value: 0.0515556
+    errors:
+    - {symerror: 0.00169273, label: 'stat'}
+    - {symerror: 0.00732743, label: 'sys'}
+  - value: 0.0509867
+    errors:
+    - {symerror: 0.00224535, label: 'stat'}
+    - {symerror: 0.00724656, label: 'sys'}
+- header: {name: '$v_{2}{2, gap}$'}
+  qualifiers:
+  - {name: '$N_{tracks}^{FVTX}$', value: '$v_{2}{2, |\Delta\eta| > 2}$ as a function of $N_{tracks}^{FVTX}$'}
+  values:
+  - value: 0.0378277
+    errors:
+    - {symerror: 0.00124455, label: 'stat'}
+    - {symerror: 0.00759386, label: 'sys'}
+  - value: 0.0333781
+    errors:
+    - {symerror: 0.000965328, label: 'stat'}
+    - {symerror: 0.0067006, label: 'sys'}
+  - value: 0.0325053
+    errors:
+    - {symerror: 0.000735283, label: 'stat'}
+    - {symerror: 0.0065254, label: 'sys'}
+  - value: 0.0347798
+    errors:
+    - {symerror: 0.00054753, label: 'stat'}
+    - {symerror: 0.006982, label: 'sys'}
+  - value: 0.0352681
+    errors:
+    - {symerror: 0.00042774, label: 'stat'}
+    - {symerror: 0.00708003, label: 'sys'}
+  - value: 0.0345603
+    errors:
+    - {symerror: 0.000347359, label: 'stat'}
+    - {symerror: 0.00693793, label: 'sys'}
+  - value: 0.0369127
+    errors:
+    - {symerror: 0.000275119, label: 'stat'}
+    - {symerror: 0.00741018, label: 'sys'}
+  - value: 0.0371214
+    errors:
+    - {symerror: 0.000228601, label: 'stat'}
+    - {symerror: 0.00745206, label: 'sys'}
+  - value: 0.0361579
+    errors:
+    - {symerror: 0.000196066, label: 'stat'}
+    - {symerror: 0.00725865, label: 'sys'}
+  - value: 0.0370986
+    errors:
+    - {symerror: 0.000166622, label: 'stat'}
+    - {symerror: 0.00744748, label: 'sys'}
+  - value: 0.0373637
+    errors:
+    - {symerror: 0.00014501, label: 'stat'}
+    - {symerror: 0.0075007, label: 'sys'}
+  - value: 0.0367772
+    errors:
+    - {symerror: 0.000129589, label: 'stat'}
+    - {symerror: 0.00738298, label: 'sys'}
+  - value: 0.0377693
+    errors:
+    - {symerror: 0.000114822, label: 'stat'}
+    - {symerror: 0.00758214, label: 'sys'}
+  - value: 0.0378989
+    errors:
+    - {symerror: 0.000104298, label: 'stat'}
+    - {symerror: 0.00760815, label: 'sys'}
+  - value: 0.038309
+    errors:
+    - {symerror: 9.55166e-05, label: 'stat'}
+    - {symerror: 0.00769047, label: 'sys'}
+  - value: 0.038527
+    errors:
+    - {symerror: 8.87568e-05, label: 'stat'}
+    - {symerror: 0.00773423, label: 'sys'}
+  - value: 0.0387965
+    errors:
+    - {symerror: 8.3331e-05, label: 'stat'}
+    - {symerror: 0.00778835, label: 'sys'}
+  - value: 0.0392791
+    errors:
+    - {symerror: 7.88582e-05, label: 'stat'}
+    - {symerror: 0.00788523, label: 'sys'}
+  - value: 0.0393712
+    errors:
+    - {symerror: 7.56995e-05, label: 'stat'}
+    - {symerror: 0.00790371, label: 'sys'}
+  - value: 0.0398083
+    errors:
+    - {symerror: 7.3078e-05, label: 'stat'}
+    - {symerror: 0.00799147, label: 'sys'}
+  - value: 0.0405541
+    errors:
+    - {symerror: 7.08751e-05, label: 'stat'}
+    - {symerror: 0.00814119, label: 'sys'}
+  - value: 0.040866
+    errors:
+    - {symerror: 6.97128e-05, label: 'stat'}
+    - {symerror: 0.00820379, label: 'sys'}
+  - value: 0.0406301
+    errors:
+    - {symerror: 6.95597e-05, label: 'stat'}
+    - {symerror: 0.00815643, label: 'sys'}
+  - value: 0.0415208
+    errors:
+    - {symerror: 6.89946e-05, label: 'stat'}
+    - {symerror: 0.00833524, label: 'sys'}
+  - value: 0.0418328
+    errors:
+    - {symerror: 6.94127e-05, label: 'stat'}
+    - {symerror: 0.00839788, label: 'sys'}
+  - value: 0.0416358
+    errors:
+    - {symerror: 7.07035e-05, label: 'stat'}
+    - {symerror: 0.00835833, label: 'sys'}
+  - value: 0.0423306
+    errors:
+    - {symerror: 7.1784e-05, label: 'stat'}
+    - {symerror: 0.00849782, label: 'sys'}
+  - value: 0.0427411
+    errors:
+    - {symerror: 7.35764e-05, label: 'stat'}
+    - {symerror: 0.00858021, label: 'sys'}
+  - value: 0.0426422
+    errors:
+    - {symerror: 7.61821e-05, label: 'stat'}
+    - {symerror: 0.00856037, label: 'sys'}
+  - value: 0.043074
+    errors:
+    - {symerror: 7.90057e-05, label: 'stat'}
+    - {symerror: 0.00864704, label: 'sys'}
+  - value: 0.0432854
+    errors:
+    - {symerror: 8.24524e-05, label: 'stat'}
+    - {symerror: 0.00868948, label: 'sys'}
+  - value: 0.0434733
+    errors:
+    - {symerror: 8.65246e-05, label: 'stat'}
+    - {symerror: 0.00872721, label: 'sys'}
+  - value: 0.0435966
+    errors:
+    - {symerror: 9.13024e-05, label: 'stat'}
+    - {symerror: 0.00875196, label: 'sys'}
+  - value: 0.044242
+    errors:
+    - {symerror: 9.62693e-05, label: 'stat'}
+    - {symerror: 0.00888152, label: 'sys'}
+  - value: 0.0446423
+    errors:
+    - {symerror: 0.000102142, label: 'stat'}
+    - {symerror: 0.00896189, label: 'sys'}
+  - value: 0.0441486
+    errors:
+    - {symerror: 0.000109921, label: 'stat'}
+    - {symerror: 0.00886277, label: 'sys'}
+  - value: 0.0438834
+    errors:
+    - {symerror: 0.000118388, label: 'stat'}
+    - {symerror: 0.00880953, label: 'sys'}
+  - value: 0.0444602
+    errors:
+    - {symerror: 0.000126794, label: 'stat'}
+    - {symerror: 0.00892532, label: 'sys'}
+  - value: 0.0448116
+    errors:
+    - {symerror: 0.000136729, label: 'stat'}
+    - {symerror: 0.00899587, label: 'sys'}
+  - value: 0.0456385
+    errors:
+    - {symerror: 0.000146942, label: 'stat'}
+    - {symerror: 0.00916187, label: 'sys'}
+  - value: 0.0456162
+    errors:
+    - {symerror: 0.000159928, label: 'stat'}
+    - {symerror: 0.00915738, label: 'sys'}
+  - value: 0.0445274
+    errors:
+    - {symerror: 0.000177184, label: 'stat'}
+    - {symerror: 0.00893882, label: 'sys'}
+  - value: 0.0450728
+    errors:
+    - {symerror: 0.000192534, label: 'stat'}
+    - {symerror: 0.0090483, label: 'sys'}
+  - value: 0.0463414
+    errors:
+    - {symerror: 0.000208271, label: 'stat'}
+    - {symerror: 0.00930297, label: 'sys'}
+  - value: 0.0448561
+    errors:
+    - {symerror: 0.000232611, label: 'stat'}
+    - {symerror: 0.0090048, label: 'sys'}
